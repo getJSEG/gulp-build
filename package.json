@@ -1,0 +1,31 @@
+{
+  "name": "gulp-build-v1",
+  "version": "1.0.0",
+  "description": "gulp-build front end website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getJSEG/gulp-build.git"
+  },
+  "author": "Elmer Gonzalez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/getJSEG/gulp-build/issues"
+  },
+  "homepage": "https://github.com/getJSEG/gulp-build#readme",
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^4.0.0",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.7.0",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.1"
+  }
+}
